@@ -43,7 +43,7 @@ This is **not maintained anymore**. Don't expect updates to FraktureSS.
 * Github: [@L1ghtingBolt](https://github.com/L1ghtingBolt)
 * Discord: L1ghtingBolt#8167
 
-### Reuploaded by AstraxVZ
+## Reuploaded by AstraxVZ
 
 ## Show your support
 
