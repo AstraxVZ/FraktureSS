@@ -30,6 +30,7 @@
 > Tool was made to find backdoors in your game.
 
 As you might already know, the original FraktureSS code got deleted so this is just a reupload of the original code.
+This is **not maintained anymore**. Don't expect updates to FraktureSS.
 
 ### 🏠 [Homepage](https://github.com/L1ghtingBolt/FraktureSS) 🔗 [Discord](https://discord.gg/w8SkzPz9qQ)
 
